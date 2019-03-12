@@ -207,7 +207,7 @@ Cliff data from OpenStreetMap is designed such that the left-hand side of the li
 
 {{ <LayerInfo type={["polygon"]} buffer={2} /> }}
 
-Large buildings appear at zoom level 13, and all buildings are included in zoom level 14 and up.
+Large buildings appear at zoom level 13, and all buildings are included in zoom level 15 and up.
 
 #### Underground buildings
 

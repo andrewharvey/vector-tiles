@@ -427,7 +427,7 @@ The `maki` field lets you assign different icons to different types of airports.
 
 {{ <LayerInfo type={["polygon"]} buffer={2} /> }}
 
-Large buildings appear at zoom level 13, and all buildings are included in zoom level 14 and up.
+Large buildings appear at zoom level 13, and all buildings are included in zoom level 15 and up.
 
 #### <!--building--> `underground` _text_
 
